@@ -28,6 +28,9 @@ export default async function DashboardPage() {
                     <a href="/dashboard/qrcode" className="text-sm underline">
                         QR Code
                     </a>
+                    <a href="/dashboard/orders" className="text-sm underline">
+                        Orders
+                    </a>
                     <UserButton />
                 </div>
             </div>
